@@ -38,9 +38,5 @@ O Habits Tracker é um app para rastrear os hábitos de acordo com os feitos rea
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
 ---
 
